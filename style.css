@@ -1,0 +1,78 @@
+
+body{
+  background-image: url('background/dd.jpg');
+   /* Fixe l'image en haut à gauche de la page */
+
+ /* Préserve le ratio de l'image */
+ min-width: 100%;
+ min-height: 100%;
+
+}
+
+.inclined {
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    background-image: url('background/bois2.png');
+    color:#ffffff ;
+    
+
+  }
+  
+  .inclineg {
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    background-image: url('background/bois1.png');
+    color:#ffffff ;
+
+
+  }
+
+  .motcle1{
+    text-align: center;
+    background-image: url('background/bois1.png');
+    color:#ffffff;
+    text-align: center;
+
+  }
+
+  .motcle2{
+    text-align: center;
+    background-image: url('background/bois2.png');
+    color:#ffffff;
+    text-align: center;
+
+  }
+
+  td{
+    background-image: url('background/fond.png');
+    text-align: center ;
+    font-weight: 900;
+  }
+
+
+
+  
+
+  div {
+    float: left;
+    height: 470px;
+    width: 23%;
+    padding: 0 10px;
+  }
+
+input {
+  background-image: url('background/fond.png');
+  text-align: center ;
+  min-width: 20%;
+  min-height: 20%;
+  text-transform:uppercase;
+  border-style:double;
+
+}
+
+
+}
+h3 {
+  color:#ffffff;
+  text-align: center;
+}
