@@ -20,7 +20,15 @@ var tabmots = ['chef', 'Maison', 'Tortue', 'Fleur', 'Arbre', 'Coquille', 'Vehicu
   'industriel', 'chirurgien', 'car', 'exactitude', 'lune', 'pictural', 'flèche', 'tactique', 'horrible', 'journal', 'intime', 'mal', 'tête', 
   'cruauté', 'douzaine', 'moustache', 'bénir', 'sabot', 'conte', 'fée', 'champion', 'faible', 'risqué', 'martyr', 'frilosité', 'agent',
   'avocat', 'têtu', 'prostituée', 'poisson', 'rouge', 'apparent', 'horreurs', 'sans', 'avenir', 'vol', 'corne', 'virtuel', 'double', 'détonateur',
-   'géométrique', 'ennemis', 'animal', 'croire']
+   'géométrique', 'ennemis', 'animal', 'croire', "Un sac", "Une cage", "Un pantalon", "Une boîte en métal", "Une boîte en carton", "Une plume",
+               "Une clé", "Un ruban", "Une potion", "Une pancarte", "Un parchemin", "Un sérum", "Une livre ancien", "Un jeux de l'oie",
+               "Un disque métal", "Un collant", "Un faux nez", "Un jeux de cartes", "Une carte routière", "Une carte des montagnes",
+               "Une boussole", "Une casserole", "Un mât", "Un parfum", "Une vieille bobine de fil", "Un pot de teinture", "Un calendrier",
+               "Une radio", "Une bougie rouge", "Un cierge", "poudre", "Un livre de magicien", "Une jonquille", "Un cadre", "Un miroir",
+               "De la soie", "Un pan de velours", "Une comète écrasée sur terre", "Un calice", "Un luth", "Un tableau", "Un éventail", "Une plume",
+               "Une corbeille à papier", "Un journal", "Une minaudière", "Une hâche", "Du talc", "Un os", "Un peigne", "Une baguette magique",
+               "Une icône", "Une balance", "Une théière", "Un drapeau", "Une boîte de nougat", "Une poudre", "Une montre", "Un discours", "Une cheminée",
+               "Un nuage", "Un foulard", "Des bottines à paillettes", "Une objet de cristal"]
 
 var tabomen = ['Non et', 'Non mais', 'Non', 'Oui', 'Oui mais','Oui et']
 
