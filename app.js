@@ -41,7 +41,11 @@ var tabverbe = ['Courir', 'Terminer', 'Traversser','Semer', 'enraciner','Payer',
 
 var tabqualite = ['*', '* *', '* * *', '* * * *', '* * * * *']
 
-var tablieux = ['Foret', 'Bois', 'Chateau', 'Chemin', 'Riviere', 'Champs', 'Maison', 'Batiment', 'Chapelle' ]
+var tablieux = ['Foret', 'Bois', 'Chateau', 'Chemin', 'Riviere', 'Champs', 'Maison', 'Batiment', 'Chapelle',
+"Un entrepôt désaffecté", "Un lac", "Un lac féerique","Une montagne magique","Une montagne perdue", "Des tours en pierre", "Une maison à moitié démoli", "Une ferme", "Une rue pavée sinueuse", "Un lavoir", "Une forêt de pins", 
+"Une forêt de chêne", "Un désert", "Un atelier", "Une prison", "Une loge", "Une grande route perdue", "Un sous-sol", "Un grenier", "Une chambre de princesse", "Une niche", "Une place fleurie", "Un cul-de-sac", "Une prairie de fleurs", "sauvages", "Un placard à balai", "Un living room bourgeois", "Une scène de théâtre/opéra/etc", "Un théâtre caché", "Une auberge", "Un château du moyen âge", "Un temple", "Une salle d'attente", "Un lit", "Une écurie", "Un cimetière", 
+"Un endroit abandonné", "Sous un pont", "Sous la terre", "Sous l'eau", "Un port", "A droite", "A gauche", "Au dessus", "Droit devant", "Une volière", "Une serre", "Un élevage", "Un balcon", "Au fond d'un jardin", 
+"Une cabane dans un arbre", "Une bibliothèque millénaire", "Un parc", "Un couloir", "Derrière une porte", "Une boutique d'antiquaire", "Un centre astronomique"]
 
 var tabmetier = ['Charpentier', 'Ferronnier', 'Guide', 'Troubadour', 'Marchand', 'Transporteur', 'Sorceleur',
 'Magicien', 'Barde', 'Apothicaire', 'Architecte', 'Armurier', 'Aubergiste', 'Tanneur', 'Barbier', 'Bibliothécaire',
