@@ -61,7 +61,7 @@ var tabobjet = ['Table', 'Chaise', 'Chandelier', 'Arbre', 'Epée', 'Bijoux', 'Pi
 var tabsentiment = ['Triste', 'Heureux', 'Joyeux', 'Mélancolique', 'Inquiet', 'Amoureux', 'Béliqueux', 'Confiant', 'Timide', 'Deception']
 
 var tabmeteo = ['nuageux', 'Vent', 'Vent glacé', 'neigeux', 'Tempete de neige', 'Avalanche', 'Ciel Bleu', 'Orage', 'Tempete', 
-                'Ciel couvert', 'Tempete de poussiere', 'pluie légère', 'Pluie violente', 'Grele', 'Grelons']
+                'Ciel couvert', 'Tempete de poussiere', 'pluie légère', 'ensoleillé', 'Pluie violente', 'Grele', 'Grelons']
 
 var tabdisposition = ['Pas rassuré', 'Confiant', 'Aucune Confiance', 'Attend de voir', 'A l ecoute', 'Rassuré']
 
