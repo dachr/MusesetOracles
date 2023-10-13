@@ -20,7 +20,15 @@ var tabmots = ['chef', 'Maison', 'Tortue', 'Fleur', 'Arbre', 'Coquille', 'Vehicu
   'industriel', 'chirurgien', 'car', 'exactitude', 'lune', 'pictural', 'flèche', 'tactique', 'horrible', 'journal', 'intime', 'mal', 'tête', 
   'cruauté', 'douzaine', 'moustache', 'bénir', 'sabot', 'conte', 'fée', 'champion', 'faible', 'risqué', 'martyr', 'frilosité', 'agent',
   'avocat', 'têtu', 'prostituée', 'poisson', 'rouge', 'apparent', 'horreurs', 'sans', 'avenir', 'vol', 'corne', 'virtuel', 'double', 'détonateur',
-   'géométrique', 'ennemis', 'animal', 'croire']
+   'géométrique', 'ennemis', 'animal', 'croire', "Un sac", "Une cage", "Un pantalon", "Une boîte en métal", "Une boîte en carton", "Une plume",
+               "Une clé", "Un ruban", "Une potion", "Une pancarte", "Un parchemin", "Un sérum", "Une livre ancien", "Un jeux de l'oie",
+               "Un disque métal", "Un collant", "Un faux nez", "Un jeux de cartes", "Une carte routière", "Une carte des montagnes",
+               "Une boussole", "Une casserole", "Un mât", "Un parfum", "Une vieille bobine de fil", "Un pot de teinture", "Un calendrier",
+               "Une radio", "Une bougie rouge", "Un cierge", "poudre", "Un livre de magicien", "Une jonquille", "Un cadre", "Un miroir",
+               "De la soie", "Un pan de velours", "Une comète écrasée sur terre", "Un calice", "Un luth", "Un tableau", "Un éventail", "Une plume",
+               "Une corbeille à papier", "Un journal", "Une minaudière", "Une hâche", "Du talc", "Un os", "Un peigne", "Une baguette magique",
+               "Une icône", "Une balance", "Une théière", "Un drapeau", "Une boîte de nougat", "Une poudre", "Une montre", "Un discours", "Une cheminée",
+               "Un nuage", "Un foulard", "Des bottines à paillettes", "Une objet de cristal"]
 
 var tabomen = ['Non et', 'Non mais', 'Non', 'Oui', 'Oui mais','Oui et']
 
@@ -33,7 +41,11 @@ var tabverbe = ['Courir', 'Terminer', 'Traversser','Semer', 'enraciner','Payer',
 
 var tabqualite = ['*', '* *', '* * *', '* * * *', '* * * * *']
 
-var tablieux = ['Foret', 'Bois', 'Chateau', 'Chemin', 'Riviere', 'Champs', 'Maison', 'Batiment', 'Chapelle' ]
+var tablieux = ['Foret', 'Bois', 'Chateau', 'Chemin', 'Riviere', 'Champs', 'Maison', 'Batiment', 'Chapelle',
+"Un entrepôt désaffecté", "Un lac", "Un lac féerique","Une montagne magique","Une montagne perdue", "Des tours en pierre", "Une maison à moitié démoli", "Une ferme", "Une rue pavée sinueuse", "Un lavoir", "Une forêt de pins", 
+"Une forêt de chêne", "Un désert", "Un atelier", "Une prison", "Une loge", "Une grande route perdue", "Un sous-sol", "Un grenier", "Une chambre de princesse", "Une niche", "Une place fleurie", "Un cul-de-sac", "Une prairie de fleurs", "sauvages", "Un placard à balai", "Un living room bourgeois", "Une scène de théâtre/opéra/etc", "Un théâtre caché", "Une auberge", "Un château du moyen âge", "Un temple", "Une salle d'attente", "Un lit", "Une écurie", "Un cimetière", 
+"Un endroit abandonné", "Sous un pont", "Sous la terre", "Sous l'eau", "Un port", "A droite", "A gauche", "Au dessus", "Droit devant", "Une volière", "Une serre", "Un élevage", "Un balcon", "Au fond d'un jardin", 
+"Une cabane dans un arbre", "Une bibliothèque millénaire", "Un parc", "Un couloir", "Derrière une porte", "Une boutique d'antiquaire", "Un centre astronomique"]
 
 var tabmetier = ['Charpentier', 'Ferronnier', 'Guide', 'Troubadour', 'Marchand', 'Transporteur', 'Sorceleur',
 'Magicien', 'Barde', 'Apothicaire', 'Architecte', 'Armurier', 'Aubergiste', 'Tanneur', 'Barbier', 'Bibliothécaire',
@@ -49,7 +61,7 @@ var tabobjet = ['Table', 'Chaise', 'Chandelier', 'Arbre', 'Epée', 'Bijoux', 'Pi
 var tabsentiment = ['Triste', 'Heureux', 'Joyeux', 'Mélancolique', 'Inquiet', 'Amoureux', 'Béliqueux', 'Confiant', 'Timide', 'Deception']
 
 var tabmeteo = ['nuageux', 'Vent', 'Vent glacé', 'neigeux', 'Tempete de neige', 'Avalanche', 'Ciel Bleu', 'Orage', 'Tempete', 
-                'Ciel couvert', 'Tempete de poussiere', 'pluie légère', 'Pluie violente', 'Grele', 'Grelons']
+                'Ciel couvert', 'Tempete de poussiere', 'pluie légère', 'ensoleillé', 'Pluie violente', 'Grele', 'Grelons']
 
 var tabdisposition = ['Pas rassuré', 'Confiant', 'Aucune Confiance', 'Attend de voir', 'A l ecoute', 'Rassuré']
 
